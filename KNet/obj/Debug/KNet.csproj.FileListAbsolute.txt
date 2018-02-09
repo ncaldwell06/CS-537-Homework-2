@@ -1,0 +1,9 @@
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\bin\Debug\KNet.exe.config
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\obj\Debug\KNet.csprojResolveAssemblyReference.cache
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\obj\Debug\KNet.Properties.Resources.resources
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\obj\Debug\KNet.csproj.GenerateResource.Cache
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\bin\Debug\KNet.exe
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\bin\Debug\KNet.pdb
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\obj\Debug\KNet.exe
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\obj\Debug\KNet.pdb
+c:\users\nathan\documents\visual studio 2013\Projects\KNet\KNet\obj\Debug\KNet.Form1.resources
